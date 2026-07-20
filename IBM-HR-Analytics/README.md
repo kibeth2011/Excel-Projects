@@ -64,13 +64,13 @@ Employees remain with the company for an average of 7.01 years, suggesting a mod
 The Research & Development department experienced the highest employee attrition, indicating a potential need to investigate workload, management practices, or career development opportunities.
 
 ### 7. Which job role experiences the highest employee turnover?
-![Reload Image](https://github.com/kibeth2011/SQL-Projects/blob/main/AdventureWorks%20Sales%20Analysis/Screenshots/Number%20of%20Orders%20by%20Year-Bar%20chart.png)
+![Reload Image](https://github.com/kibeth2011/Excel-Projects/blob/main/IBM-HR-Analytics/Screenshots/Employee%20Attrition%20by%20Job%20Role.PNG)
 
 ### Insight
 Laboratory Technicians recorded the highest employee turnover, suggesting this role may require improved retention strategies.
 
 ### 8. Does overtime affect attrition?
-![Reload Image](https://github.com/kibeth2011/Excel-Projects/blob/main/IBM-HR-Analytics/Screenshots/Employee%20Attrition%20by%20Job%20Role.PNG)
+![Reload Image](https://github.com/kibeth2011/Excel-Projects/blob/main/IBM-HR-Analytics/Screenshots/Attrition%20Rate%20by%20Overtime.PNG)
 
 ### Insight
 Employees working overtime experienced substantially higher attrition than employees who did not work overtime. This suggests that excessive workloads may contribute to employee turnover.
