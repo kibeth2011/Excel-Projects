@@ -5,7 +5,7 @@ This project analyzes employee attrition and workforce trends using the IBM HR A
 Using Microsoft Excel, the project combines PivotTables, PivotCharts, KPI cards, slicers, and an interactive dashboard to transform raw HR data into meaningful business insights.
 
 ## Dataset
-- <a href="https://https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?resource=download">IBM HR Analytics Employee Attrition & Performance Dataset</a>
+<a href="https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?resource=download">IBM HR Analytics Employee Attrition & Performance Dataset</a>
 
 The dataset contains 1,470 employee records with information on:
 - Employee demographics
